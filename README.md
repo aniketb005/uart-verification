@@ -8,7 +8,6 @@ Testbench Architecture:
 ![Alt text](./test/tb_arch.png?raw=true)
 
 Following Test Case scenarios were verified the operations of UART in three modes i.e Half duplex, Full Duplex, and Loop Back Mode.
-This also covered
 This also verified different error situations like Parity Error, Frame error, Time Out Error,Overrun Error,Break Interrupt Error,Transmitter Hold Register Empty Error
 
 Following Functional coverage was acheived:
