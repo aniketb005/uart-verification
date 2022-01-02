@@ -1,4 +1,4 @@
-UART Verification in System Verilog Using UVM Methodology
+## UART Verification in System Verilog Using UVM Methodology
 
 This project was completed in 2019. This projects used QuestaSim for Verification and Rivera Aldec Pro for testing Assertions.
 
